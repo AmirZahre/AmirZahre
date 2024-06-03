@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**AmirZahre/AmirZahre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *Hi/Bonjour/Ciao!* 👋
+I'm Amir, a Data Engineer currently spending my time consulting at [Lantern Studios](https://lanternstudios.com/).
 
-Here are some ideas to get you started:
+I do a lot of fun things pertaining to the realm of data, including developing data pipelines using Apache Airflow, Prefect, and ADF. I've worked for startups and large enterprises, and genuinely enjoy what I do!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My contact information is below if you'd like to reach out for a virtual coffee - thank you for visiting my page :)
+
+[LinkedIn](https://www.linkedin.com/feed/) | [Email](mailto:amir.zahreddine@gmail.com)
+____
+
+
+
